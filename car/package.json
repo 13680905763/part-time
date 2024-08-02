@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "author": "yuhua <9583941+z-zhang-yuhua@user.noreply.gitee.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "react-draggable": "^4.4.6",
+    "umi": "^4.3.10",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11",
+    "typescript": "^5.0.3"
+  }
+}
